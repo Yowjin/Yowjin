@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at **FEU Institute of Technology**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
